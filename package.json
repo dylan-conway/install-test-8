@@ -1,0 +1,7 @@
+{
+	"name": "install-test-eight",
+	"version": "2.2.2",
+	"dependencies": {
+		"jquery": "3.7.1"
+	}
+}
